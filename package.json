@@ -1,0 +1,28 @@
+{
+  "name": "d12_vercelproj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "engines": {
+    "node": "18.9.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adelgado4419/Deployment1Vercel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adelgado4419/Deployment1Vercel/issues"
+  },
+  "homepage": "https://github.com/Adelgado4419/Deployment1Vercel#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  }
+}
